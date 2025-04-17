@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamsurajdixit
-- 👀 I’m interested in Java Programming Language
-- 🌱 I’m currently learning Java & Web Developement
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Dart Programming Language
+- 🌱 I’m currently learning Flutter App Developement
+- 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me 8605569340
 
 <!---
